@@ -1,0 +1,33 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: cursive;
+}
+.button{
+    padding:20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 62px;
+    font-size: 23px;
+    background-color: bisque;
+    color: blueviolet;
+}
+h1{
+    /* background-color: aliceblue; */
+    color: royalblue;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    margin: 0;
+    padding: 10px 0;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 275px;
+    font-size: 23px;
+    background-color:lightsalmon;
+    color: azure;
+}
